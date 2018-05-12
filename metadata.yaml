@@ -1,10 +1,16 @@
 _repo: Wermlanningarne-Sorglustigt-tal-sang-och-dansspel-i-tva-afdelningar-och-sex-indelningar_48738
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48738-h/images/back-cover.jpg
 creator:
   author:
     agent_name: Dahlgren, Fredrik August
     gutenberg_agent_id: '44952'
     url: http://www.gutenberg.org/2009/agents/44952
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48738#Wermlanningarne-Sorglustigt-tal-sang-och-dansspel-i-tva-afdelningar-och-sex-indelningar
 gutenberg_issued: '2015-04-19'
 gutenberg_type: Text
 identifiers:
