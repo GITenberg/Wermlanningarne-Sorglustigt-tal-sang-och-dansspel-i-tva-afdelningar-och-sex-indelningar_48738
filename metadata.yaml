@@ -19,6 +19,8 @@ language: sv
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Wermlänningarne
 
   Sorglustigt tal- sång- och dansspel i två afdelningar och
